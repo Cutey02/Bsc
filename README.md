@@ -10,9 +10,9 @@
 ━━━━━━━━━━━━━━━━
 ### Support
 
-<p align="center"><a href="https://t.me/we_rfriends"> <img src="https://img.shields.io/badge/SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/remo_support"> <img src="https://img.shields.io/badge/SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
-<p align="center"><a href="https://t.me/DEVBOTZ"> <img src="https://img.shields.io/badge/SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>    
+<p align="center"><a href="https://t.me/Team_Remo"> <img src="https://img.shields.io/badge/SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>    
 
 ━━━━━━━━━━━━━━━━
 
