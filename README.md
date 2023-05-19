@@ -5,7 +5,7 @@
 
 ## Heroku 🚀
     
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Devarora-0981/Status-Checker)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cutey02/Bsc)
 
 ━━━━━━━━━━━━━━━━
 ### Support
